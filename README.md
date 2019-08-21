@@ -1,7 +1,7 @@
 # Reinforcement Learning: step-by-step introduction to the Q-learning algorithm
 
 
-[This jupyter notebook](notebook.ipynb) was used to support a presentation about Q-learning
+[This jupyter notebook](https://nbviewer.jupyter.org/github/adrienbolens/introduction-to-q-learning/blob/master/notebook.ipynb) was used to support a presentation about Q-learning
 that I gave on July 3, 2019, in the context of a recurring 'Machine Learning meetup' at the Max Planck Institute for the Physics of Complex Systems.
 
 It contains an introduction to the following concepts and algorithms with some interactive python code:
